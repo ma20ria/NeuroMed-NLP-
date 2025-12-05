@@ -1,0 +1,5 @@
+{
+  "name": " NeuroMed NLP Platform",
+  "description": "A clinical text analysis platform based on transformer models (BERT) and RNNs (LSTM) for medical transcript classification and sentiment analysis.",
+  "requestFramePermissions": []
+}
